@@ -1,4 +1,4 @@
-# CRA + typescript + react-router + styled-components(theme)
+# React Basic Template
 
 ## 🌿 Branches
 
