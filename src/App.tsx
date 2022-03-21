@@ -1,4 +1,7 @@
 import Router from "./Router";
+import { ThemeProvider } from "styled-components";
+import { ReactQueryDevtools } from "react-query/devtools";
+import { theme } from "./theme";
 import { createGlobalStyle } from "styled-components";
 const GlobalStyle = createGlobalStyle`
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400&display=swap');
@@ -65,8 +68,11 @@ a{
 function App() {
   return (
     <>
-      <GlobalStyle />
-      <Router />
+      <ThemeProvider theme={theme}>
+        <GlobalStyle />
+        <Router />
+        <ReactQueryDevtools initialIsOpen={true} />
+      </ThemeProvider>
     </>
   );
 }
