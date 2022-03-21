@@ -9,8 +9,8 @@ function Router() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />}>
-          {/* <Route path="/:coinId" element={<Outlet />}> */}
-          {/* <Route index element={<Coin />} /> */}
+          {/* <Route path="/about" element={<Outlet />}> */}
+          {/* <Route index element={<About />} /> */}
           <Route path="child1" element={<Child1 />} />
           <Route path="child2" element={<Child2 />} />
         </Route>
