@@ -6,6 +6,7 @@
 
 - [Basic Template](https://github.com/Cottonwood-moa/ReactBasicTemplate)
 - [Typescript + Styled-components](https://github.com/Cottonwood-moa/ReactBasicTemplate/tree/react-typescript)
+- [Typescript + Styled-components + react-query + recoil](https://github.com/Cottonwood-moa/ReactBasicTemplate/tree/react-typescript-recoil-reactQuery)
 
 ## package.json
 
@@ -22,12 +23,16 @@
     "@types/node": "^16.7.13",
     "@types/react": "^17.0.20",
     "@types/react-dom": "^17.0.9",
+    "@types/react-helmet": "^6.1.5",
     "@types/react-router-dom": "^5.3.3",
     "@types/styled-components": "^5.1.24",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "react-query": "^3.34.16",
     "react-router-dom": "^6.2.2",
     "react-scripts": "5.0.0",
+    "recoil": "^0.6.1",
     "styled-components": "^5.3.3",
     "typescript": "^4.4.2",
     "web-vitals": "^2.1.0"
