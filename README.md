@@ -6,6 +6,7 @@
 
 - [Basic Template](https://github.com/Cottonwood-moa/ReactBasicTemplate)
 - [Typescript + Styled-components](https://github.com/Cottonwood-moa/ReactBasicTemplate/tree/react-typescript)
+- [Typescript + Styled-components + react-query + recoil](https://github.com/Cottonwood-moa/ReactBasicTemplate/tree/react-typescript-recoil-reactQuery)
 
 ## package.json
 
