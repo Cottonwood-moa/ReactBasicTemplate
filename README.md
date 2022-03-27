@@ -4,9 +4,9 @@
 
 필요한 템플릿을 브랜치로 찾아가세요.
 
-- [Basic Template](https://github.com/Cottonwood-moa/ReactBasicTemplate)
-- [Typescript + Styled-components](https://github.com/Cottonwood-moa/ReactBasicTemplate/tree/react-typescript)
-- [Typescript + Styled-components + react-query + recoil](https://github.com/Cottonwood-moa/ReactBasicTemplate/tree/react-typescript-recoil-reactQuery)
+- [Basic create react app](https://github.com/Cottonwood-moa/ReactBasicTemplate)
+- [CRA + React-router-dom + Typescript + Styled-components(css reset)](https://github.com/Cottonwood-moa/ReactBasicTemplate/tree/react-typescript)
+- [CRA + React-router-dom + Typescript + Styled-components(css reset) + react-query + recoil](https://github.com/Cottonwood-moa/ReactBasicTemplate/tree/react-typescript-recoil-reactQuery)
 
 ## package.json
 
